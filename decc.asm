@@ -502,7 +502,7 @@ mov cx,278
 mov dx,62
 mov si,13
 call drawbi
-
+; safaa kaba
 
 
 code ends
